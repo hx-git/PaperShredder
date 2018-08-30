@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PaperShredder.iml" filepath="$PROJECT_DIR$/PaperShredder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaperShredder.iml" filepath="$PROJECT_DIR$/PaperShredder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/papershredderlib/papershredderlib.iml" filepath="$PROJECT_DIR$/papershredderlib/papershredderlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/papershredderlib/papershredderlib.iml" filepath="$PROJECT_DIR$/papershredderlib/papershredderlib.iml" />
     </modules>
   </component>
